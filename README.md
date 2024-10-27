@@ -18,6 +18,6 @@ Used Technologies,
 Python, FastAPI, uvicorn, sqlalchemy, pymysql, scikit-learn, requests, KNN Model, MySql, ORM, GoogleAPI
 
 
-![298498752-e7a6d7e5-8bd1-42a3-9d46-1ca01cae2cc6](https://github.com/user-attachments/assets/6dfabd95-0bc2-4c73-afed-05c64e5a5eda)
-![298498780-1357755f-11c5-4dd2-ab1d-4b5fce3825ac](https://github.com/user-attachments/assets/dc32de34-ebe9-4c30-bf06-36b9e0785774)
-![302194207-981f761e-17dd-4e9b-b65b-ff5a145270d4](https://github.com/user-attachments/assets/aee9aa7a-2898-47f7-9381-3c51fa2f516a)
+![298498752-e7a6d7e5-8bd1-42a3-9d46-1ca01cae2cc6](https://github.com/user-attachments/assets/6dfabd95-0bc2-4c73-afed-05c64e5a5eda)  ![298498780-1357755f-11c5-4dd2-ab1d-4b5fce3825ac](https://github.com/user-attachments/assets/dc32de34-ebe9-4c30-bf06-36b9e0785774)  ![302194207-981f761e-17dd-4e9b-b65b-ff5a145270d4](https://github.com/user-attachments/assets/aee9aa7a-2898-47f7-9381-3c51fa2f516a)
+
+
